@@ -1,0 +1,8 @@
+Predicted digit at position (248, 268): 2
+Predicted digit at position (148, 266): 5
+Predicted digit at position (63, 262): 0
+Predicted digit at position (425, 261): 1
+Predicted digit at position (324, 260): 2
+Predicted digit at position (559, 257): 5
+Predicted digit at position (645, 256): 9
+Predicted digit at position (474, 256): 8
